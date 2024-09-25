@@ -1,5 +1,4 @@
-- 👋 Hi, Egor
-- 👀 I’m interested in Swift UI
+
 
 
 <!---
